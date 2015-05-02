@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Digital Time Dimensions -->
+    <dimen name="digital_text_size">60dp</dimen>
+    <dimen name="digital_text_size_round">65dp</dimen>
+    <dimen name="digital_x_offset">25dp</dimen>
+    <dimen name="digital_x_offset_round">45dp</dimen>
+    <dimen name="digital_y_offset">110dp</dimen>
+
+    <!-- Total Dimensions -->
+    <dimen name="total_text_size">20dp</dimen>
+    <dimen name="total_text_size_round">25dp</dimen>
+
+    <!-- Date Dimensions -->
+    <dimen name="date_text_size">15dp</dimen>
+    <dimen name="date_text_size_round">20dp</dimen>
+
+    <dimen name="config_goal_picker_item_margin">32dp</dimen>
+    <dimen name="content_padding_start">12dp</dimen>
+</resources>

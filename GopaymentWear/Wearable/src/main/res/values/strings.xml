@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WatchFace</string>
+    <string name="digital_name">GoPayment</string>
+    <string name="daily_goal">Daily Goal</string>
+    <string name="digital_config_name">Digital watch face configuration</string>
+
+    <!-- TODO: this should be shared (needs covering all the samples with Gradle build model) -->
+    <string name="value1">0</string>
+    <string name="value2">100</string>
+    <string name="value3">250</string>
+    <string name="value4">500</string>
+    <string name="value5">1000</string>
+    <string name="value6">1500</string>
+    <string name="value7">2500</string>
+
+    <string-array name="goal_array">
+        <item>@string/value1</item>
+        <item>@string/value2</item>
+        <item>@string/value3</item>
+        <item>@string/value4</item>
+        <item>@string/value5</item>
+        <item>@string/value6</item>
+        <item>@string/value7</item>
+    </string-array>
+</resources>

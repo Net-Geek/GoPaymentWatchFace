@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/pre-dexed/debug/classes-4f9c239dbba1522b74a961cbfb7a1605ff1ba4f5.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/pre-dexed/debug/classes-2274416777e9fcf84269e3d43d798cf0d900ba7c.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/pre-dexed/debug/classes-b270a238cac1b2bc7a7333b4fc5057499810d6c5.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/classes-9e694d03f3ad2942f33590a836e7ef12c0e5e885.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/pre-dexed/debug/classes-cf4cef542be84f94031dd345c0cd6a8e5926c12f.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-869fe92c924ede210d96a61fb00ccdfcec98f4c0.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/classes-0aeb15cc509f1b614afd90962b5538ab318c13fe.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1cccba86010b562c62c131c65bd4ec1606bb3d82.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-37a48bdd182d63181522b8382af4775fede2b370.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/classes-3caf993f0313c550d3085ac668f716897db687fb.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-75c6933f8e496ae9b07555c3b7894c2d7fcecbad.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/pre-dexed/debug/classes-975a48d8ada6359f3491f698339870d74d2ba3d5.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/classes-75cc5ac10d6e3f26f6ba88cef6fd5dc0f6f95545.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/pre-dexed/debug/classes-70e07f197b9a0951b22aa4e29214dcf4e2478a63.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/classes-3d89e469f7211a37ec4d7a67cb3d3aadab387ed6.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f281d56441ea705cccbf34683a227a065dcb1256.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/classes-e9554ea3abb445a2ddd59b634f3d04b0debf8f4c.jar" />
+    </item>
+    <item
+        jar="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/atriplett1/Dev/Projects/GopaymentWear/Application/build/intermediates/pre-dexed/debug/classes-8adeda85f06e95b284c0c391c0110c74f430bf37.jar" />
+    </item>
+
+</items>

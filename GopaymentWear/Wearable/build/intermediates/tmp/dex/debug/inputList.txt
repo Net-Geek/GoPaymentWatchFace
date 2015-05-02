@@ -1,0 +1,10 @@
+/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/classes/debug
+/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f281d56441ea705cccbf34683a227a065dcb1256.jar
+/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-37a48bdd182d63181522b8382af4775fede2b370.jar
+/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/classes-75cc5ac10d6e3f26f6ba88cef6fd5dc0f6f95545.jar
+/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/classes-9e694d03f3ad2942f33590a836e7ef12c0e5e885.jar
+/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-75c6933f8e496ae9b07555c3b7894c2d7fcecbad.jar
+/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/classes-e9554ea3abb445a2ddd59b634f3d04b0debf8f4c.jar
+/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/classes-0aeb15cc509f1b614afd90962b5538ab318c13fe.jar
+/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/classes-3caf993f0313c550d3085ac668f716897db687fb.jar
+/Users/atriplett1/Dev/Projects/GopaymentWear/Wearable/build/intermediates/pre-dexed/debug/classes-3d89e469f7211a37ec4d7a67cb3d3aadab387ed6.jar
